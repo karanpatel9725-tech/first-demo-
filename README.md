@@ -1,4 +1,4 @@
 # first-demo-
 this is my first git repo
 <br>
-author - karan 
+author - karan patel
